@@ -1,25 +1,32 @@
 [Aabs]
 Hotkey=E
+Buttonpos=2,0
 
 [Aadm]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Aaha]
 Hotkey=D
+Buttonpos=2,1
 Unhotkey=D
 
 [Aam2]
 Hotkey=W
+Buttonpos=1,0
 
 [Aams]
 Hotkey=W
+Buttonpos=1,0
 
 [Aast]
 Hotkey=E
+Buttonpos=2,0
 
 [Aatp]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [Aave]
@@ -27,73 +34,93 @@ Hotkey=T
 
 [Ablo]
 Hotkey=E
+Buttonpos=2,0
 Unhotkey=E
 
 [Abrf]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [Absk]
 Hotkey=Q
+Buttonpos=0,0
 
 [Abtl]
 Hotkey=W
+Buttonpos=1,0
 
 [Abu2]
 Hotkey=Q
 Unhotkey=Q
+Buttonpos=0,0
 
 [Abu3]
 Hotkey=Q
 Unhotkey=B
+Buttonpos=0,0
 
 [Abur]
 Hotkey=Q
 Unhotkey=Q
+Buttonpos=0,0
 
 [Acan]
 Hotkey=Q
+Buttonpos=0,0
 
 [ACbb]
 Hotkey=Q
 Unhotkey=Q
+Buttonpos=0,0
 
 [ACbf]
 Hotkey=F
+Buttonpos=3,1
 
 [ACbz]
 Hotkey=Q
+Buttonpos=0,0
 
 [ACcn]
 Hotkey=Q
+Buttonpos=0,0
 
 [ACcr]
 Hotkey=C
+Buttonpos=2,2
 
 [ACcs]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [ACcw]
 Hotkey=E
+Buttonpos=2,0
 Unhotkey=E
 
 [ACcy]
 Hotkey=W
+Buttonpos=1,0
 
 [ACd2]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=W
 
 [ACdm]
 Hotkey=Q,Q
+Buttonpos=0,0
 Unhotkey=Q,Q
 
 [ACdv]
 Hotkey=D
+Buttonpos=2,1
 
 [ACff]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [ACfn]
@@ -101,90 +128,116 @@ Hotkey=N
 
 [ACif]
 Hotkey=E
+Buttonpos=2,0
 Unhotkey=E
 
 [Aclf]
 Hotkey=W
+Buttonpos=1,0
 
 [Acmg]
 Hotkey=W
+Buttonpos=1,0
 
 [Acn2]
 Hotkey=Q
+Buttonpos=0,0
 
 [Aco2]
 Hotkey=Q
+Buttonpos=0,0
 
 [Aco3]
 Hotkey=Q
+Buttonpos=0,0
 
 [Acpf]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [ACpu]
 Hotkey=Q
+Buttonpos=0,0
 
 [ACrd]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [ACrf]
 Hotkey=F
+Buttonpos=3,1
 
 [Acri]
 Hotkey=E
+Buttonpos=2,0
 
 [Acrs]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [ACsa]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=W
 
 [ACsw]
 Hotkey=Q
+Buttonpos=0,0
 
 [ACtb]
 Hotkey=B
 
 [ACuf]
 Hotkey=W
+Buttonpos=1,0
 
 [Acyc]
 Hotkey=W
+Buttonpos=1,0
 
 [Adcn]
 Hotkey=W
+Buttonpos=1,0
 
 [Adec]
 Hotkey=Q
+Buttonpos=0,0
 
 [Adef]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Adev]
 Hotkey=Q
+Buttonpos=0,0
 
 [Adis]
 Hotkey=W
+Buttonpos=1,0
 
 [Adri]
 Hotkey=X
+Buttonpos=1,2
 
 [Adro]
 Hotkey=W
+Buttonpos=1,0
 
 [Adsm]
 Hotkey=E,E
+Buttonpos=2,0
 
 [Adtn]
 Hotkey=Q
+Buttonpos=0,0
 
 [Advm]
 Hotkey=Q
+Buttonpos=0,0
 
 [AEah]
 Researchhotkey=E
@@ -194,13 +247,16 @@ Researchhotkey=E
 
 [Aeat]
 Hotkey=Q
+Buttonpos=0,0
 
 [AEbl]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AEer]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AEev]
@@ -208,64 +264,80 @@ Researchhotkey=E
 
 [AEfk]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AEfn]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AEim]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 Unhotkey=W
 
 [AEmb]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AEme]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [Aenc]
 Hotkey=X
+Buttonpos=1,2
 Unhotkey=U
 
 [Aens]
 Hotkey=Q
+Buttonpos=0,0
 
 [Aent]
 Hotkey=X
+Buttonpos=1,2
 
 [AEsf]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [AEsh]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [Aesn]
 Hotkey=Q
+Buttonpos=0,0
 
 [AEst]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AEsv]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [Aetf]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=F
 
 [AEtq]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [Aeye]
 Hotkey=Q
+Buttonpos=0,0
 
 [Afa2]
 Hotkey=Y
@@ -273,25 +345,31 @@ Unhotkey=R
 
 [afac]
 Hotkey=F
+Buttonpos=3,1
 MerchantAvailable=1
 
 [Afae]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Afak]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=W
 
 [Afla]
 Hotkey=Q
+Buttonpos=0,0
 
 [Afzy]
 Hotkey=F
+Buttonpos=3,1
 Unhotkey=F
 
 [Agra]
 Hotkey=W
+Buttonpos=1,0
 
 [AHab]
 Researchhotkey=E
@@ -301,10 +379,12 @@ Researchhotkey=E
 
 [Ahar]
 Hotkey=D
+Buttonpos=2,1
 Unhotkey=D
 
 [AHav]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 Unhotkey=R
 
@@ -313,36 +393,44 @@ Researchhotkey=E
 
 [AHbn]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AHbz]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AHdr]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [AHds]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 Unhotkey=W
 
 [Ahea]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [AHfa]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 Unhotkey=W
 
 [AHfs]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AHhb]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [Ahid]
@@ -350,10 +438,12 @@ Hotkey=I
 
 [AHmt]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [AHpx]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [Ahr3]
@@ -362,43 +452,54 @@ Unhotkey=E
 
 [AHre]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [Ahrl]
 Hotkey=D
+Buttonpos=2,1
 Unhotkey=D
 
 [Ahrp]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [AHta]
 Hotkey=Q
+Buttonpos=0,0
 
 [AHtb]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AHtc]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [Ahwd]
 Hotkey=E
+Buttonpos=2,0
 
 [AHwe]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AIhm]
 Hotkey=D
+Buttonpos=2,1
 
 [Ainf]
 Hotkey=E
+Buttonpos=2,0
 Unhotkey=E
 
 [Aivs]
 Hotkey=W
+Buttonpos=1,0
 
 [ajen]
 Hotkey=J
@@ -406,9 +507,10 @@ MerchantAvailable=1
 
 [Alam]
 Hotkey=Q
+Buttonpos=0,0
 
 [alcm]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=65
 Modifier=Alt
 
@@ -418,26 +520,32 @@ MenuCommand=1
 
 [Aloa]
 Hotkey=Q
+Buttonpos=0,0
 
 [Alsh]
 Hotkey=W
+Buttonpos=1,0
 
 [Ambb]
 Hotkey=B
 
 [Ambt]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Amed]
 Hotkey=W
+Buttonpos=1,0
 
 [Amel]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Amfl]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=W
 
 [Ami1]
@@ -448,45 +556,56 @@ ParentId=Amic
 
 [Amic]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=E
 UnhotkeyId=Ami2
 
 [Amil]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=E
 UnhotkeyId=Ami1
 
 [Amls]
 Hotkey=Q
+Buttonpos=0,0
 
 [amrc]
 Hotkey=R
+Buttonpos=3,0
 
 [ANab]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [ANba]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANbf]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANbl]
 Hotkey=Q
+Buttonpos=0,0
 
 [ANc1]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANc2]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANc3]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANca]
@@ -494,14 +613,17 @@ Researchhotkey=E
 
 [ANch]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [ANcr]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANcs]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANd1]
@@ -521,25 +643,31 @@ Hotkey=
 
 [ANdh]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANdo]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [ANdr]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [Andt]
 Hotkey=Q
+Buttonpos=0,0
 
 [ANef]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [ANeg]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [Anei]
@@ -556,11 +684,13 @@ Hotkey=
 
 [ANfa]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 Unhotkey=W
 
 [ANfl]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANfy]
@@ -568,128 +698,158 @@ Hotkey=
 
 [ANg1]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 Unhotkey=T
 
 [ANg2]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 Unhotkey=T
 
 [ANg3]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 Unhotkey=T
 
 [Anh1]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=W
 
 [Anh2]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [ANhs]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANht]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANia]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [ANic]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [ankh]
 Hotkey=A
+Buttonpos=0,1
 MerchantAvailable=1
 
 [ANlm]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANms]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 Unhotkey=E
 
 [ANrf]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANrg]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 Unhotkey=T
 
 [ANs1]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANs2]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANs3]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANsg]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANsi]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANso]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANsq]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [ANst]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [ANsw]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [ANsy]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [ANta]
 Hotkey=Q
+Buttonpos=0,0
 
 [ANtm]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [ANto]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [ANvc]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [ANwk]
 Hotkey=Q
+Buttonpos=0,0
 
 [AOae]
 Researchhotkey=E
 
 [AOcl]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AOcr]
@@ -697,22 +857,27 @@ Researchhotkey=E
 
 [AOeq]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [AOfs]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AOhw]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AOhx]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AOmi]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AOre]
@@ -720,56 +885,71 @@ Researchhotkey=R
 
 [AOsf]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [AOsh]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AOsw]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [AOvd]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [AOwk]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AOws]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AOww]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [Apg2]
 Hotkey=Q
+Buttonpos=0,0
 
 [Aply]
 Hotkey=E
+Buttonpos=2,0
 
 [Apos]
 Hotkey=E
+Buttonpos=2,0
 
 [Aprg]
 Hotkey=Q
+Buttonpos=0,0
 
 [Aps2]
 Hotkey=E
+Buttonpos=2,0
 
 [Apsh]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Ara2]
 Hotkey=Q
+Buttonpos=0,0
 
 [Arai]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [ARal]
@@ -777,29 +957,36 @@ Hotkey=Y
 
 [Arav]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [Arej]
 Hotkey=W
+Buttonpos=1,0
 
 [Aren]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [Arep]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [Aro1]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [Aro2]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [Aroa]
 Hotkey=Q
+Buttonpos=0,0
 
 [Aroo]
 Hotkey=B
@@ -807,56 +994,71 @@ Unhotkey=B
 
 [Arpl]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Arpm]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=W
 
 [arsc]
 Hotkey=A
+Buttonpos=0,1
 
 [arsh]
 Hotkey=A
+Buttonpos=0,1
 
 [Arst]
 Hotkey=R
+Buttonpos=3,0
 Unhotkey=R
 
 [Asac]
 Hotkey=C
+Buttonpos=2,2
 
 [asbl]
 Hotkey=A
+Buttonpos=0,1
 
 [Asd2]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=B
 
 [Asd3]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=B
 
 [Asdg]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=B
 
 [Asds]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Ashm]
 Hotkey=D
+Buttonpos=2,1
 
 [Aslo]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Aspl]
 Hotkey=Q
+Buttonpos=0,0
 
 [Asps]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [Ast1]
@@ -864,66 +1066,83 @@ ParentId=Astn
 
 [Asta]
 Hotkey=W
+Buttonpos=1,0
 
 [Astd]
 Hotkey=E
+Buttonpos=2,0
 
 [Astn]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 UnhotkeyId=Ast1
 
 [Atau]
 Hotkey=Q
+Buttonpos=0,0
 
 [AUa2]
-Hotkey=D
-Researchhotkey=D
+Hotkey=R
+Buttonpos=3,0
+Researchhotkey=R
 
 [AUan]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [AUau]
 Researchhotkey=E
+Buttonpos=2,0
 
 [AUav]
 Researchhotkey=E
+Buttonpos=2,0
 
 [AUcb]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [Auco]
 Hotkey=Q
+Buttonpos=0,0
 Unhotkey=Q
 
 [AUcs]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AUdc]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AUdd]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [AUdp]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AUdr]
 Hotkey=E
+Buttonpos=2,0
 Researchhotkey=E
 
 [AUfn]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AUfu]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [Auhf]
@@ -931,21 +1150,26 @@ Hotkey=U
 
 [AUim]
 Hotkey=Q
+Buttonpos=0,0
 Researchhotkey=Q
 
 [AUin]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [AUls]
 Hotkey=R
+Buttonpos=3,0
 Researchhotkey=R
 
 [Auns]
 Hotkey=V
+Buttonpos=3,2
 
 [AUsl]
 Hotkey=W
+Buttonpos=1,0
 Researchhotkey=W
 
 [AUts]
@@ -956,22 +1180,27 @@ Hotkey=U
 
 [Avng]
 Hotkey=Q
+Buttonpos=0,0
 
 [Aweb]
 Hotkey=W
+Buttonpos=1,0
 Unhotkey=W
 
 [Awha]
 Hotkey=D
+Buttonpos=2,1
 
 [Awrs]
 Hotkey=T
 
 [axas]
 Hotkey=A
+Buttonpos=0,0
 
 [belv]
 Hotkey=E
+Buttonpos=2,0
 MerchantAvailable=1
 
 [bfhr]
@@ -983,21 +1212,26 @@ MerchantAvailable=1
 
 [blba]
 Hotkey=A
+Buttonpos=0,1
 
 [brac]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [bspd]
 Hotkey=Q
+Buttonpos=0,0
+Buttonpos=0,0
 
 [capt]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=67
 Modifier=Ctrl_or_Alt
 
 [ccmd]
 Hotkey=C
+Buttonpos=2,2
 MerchantAvailable=1
 
 [Chat]
@@ -1006,6 +1240,7 @@ MenuCommand=1
 
 [ciri]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [ckng]
@@ -1013,36 +1248,46 @@ Hotkey=K
 
 [clfm]
 Hotkey=F
+Buttonpos=3,1
 MerchantAvailable=1
 
 [clnt]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=32
 
 [clsd]
 Hotkey=C
 MerchantAvailable=1
+Buttonpos=2,2
 
 [CmdAttack]
+Tip=(|cffffcc00A|r) Attack
 Hotkey=A
+Buttonpos=0,1
 
 [CmdAttackGround]
 Hotkey=F
+Buttonpos=3,1
 
 [CmdBuild]
 Hotkey=F
+Buttonpos=3,1
 
 [CmdBuildHuman]
 Hotkey=F
+Buttonpos=3,1
 
 [CmdBuildNightElf]
 Hotkey=F
+Buttonpos=3,1
 
 [CmdBuildOrc]
 Hotkey=F
+Buttonpos=3,1
 
 [CmdBuildUndead]
 Hotkey=F
+Buttonpos=3,1
 
 [CmdCancel]
 Hotkey=27
@@ -1058,86 +1303,97 @@ Hotkey=27
 
 [CmdHoldPos]
 Hotkey=C
+Buttonpos=2,2
 
 [CmdMove]
 Hotkey=S
+Buttonpos=1,1
 
 [CmdPatrol]
 Hotkey=Y
+Buttonpos=0,2
 
 [CmdRally]
 Hotkey=F
+Buttonpos=3,1
 
 [CmdSelectSkill]
 Hotkey=F
+Buttonpos=3,1
 
 [CmdStop]
 Hotkey=X
+Buttonpos=1,2
 
 [cnob]
 Hotkey=E
+Buttonpos=2,0
 MerchantAvailable=1
 
 [cosl]
 Hotkey=C
+Buttonpos=2,2
 
 [crdt]
 Hotkey=D
+Buttonpos=2,1
 
 [crys]
 Hotkey=C
+Buttonpos=2,2
 MerchantAvailable=1
 
 [ctcr]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=8
 
 [Ctr0]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=48
 
 [Ctr1]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=49
 
 [Ctr2]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=50
 
 [Ctr3]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=51
 
 [Ctr4]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=52
 
 [Ctr5]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=53
 
 [Ctr6]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=54
 
 [Ctr7]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=55
 
 [Ctr8]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=56
 
 [Ctr9]
-CtrlGroupCommand=1,1
+CtrlGroupCommand=1,1,1
 Hotkey=57
 
 [DeGS]
 Hotkey=189
-ReplayCommand=1,1
+ReplayCommand=1,1,1
 
 [desc]
 Hotkey=E
+Buttonpos=2,0
 
 [dkfw]
 Hotkey=K
@@ -1147,101 +1403,128 @@ Hotkey=H
 
 [dsum]
 Hotkey=D
+Buttonpos=2,1
 
 [dthb]
 Hotkey=T
 
 [dtsb]
 Hotkey=D
+Buttonpos=2,1
 
 [dust]
 Hotkey=R
+Buttonpos=3,0
 
 [eaoe]
 Hotkey=D
+Buttonpos=2,1
 
 [eaom]
 Hotkey=W
+Buttonpos=1,0
 
 [eaow]
 Hotkey=Y
 
 [earc]
 Hotkey=Q
+Buttonpos=0,0
 
 [eate]
 Hotkey=S
+Buttonpos=1,1
 
 [ebal]
 CanAttackGround=1
 Hotkey=E
+Buttonpos=2,0
 
 [echm]
 Hotkey=Q
+Buttonpos=0,0
 
 [edcm]
 Hotkey= 
 
 [Edem]
 Hotkey=Q
+Buttonpos=0,0
 
 [eden]
 Hotkey=C
+Buttonpos=2,2
 
 [edob]
 Hotkey=E
+Buttonpos=2,0
 
 [edoc]
 Hotkey=W
+Buttonpos=1,0
 
 [edos]
 Hotkey=X
+Buttonpos=1,2
 
 [edot]
 Hotkey=W
+Buttonpos=1,0
 
 [edry]
 Hotkey=Q
+Buttonpos=0,0
 
 [edtm]
 Hotkey= 
 
 [efdr]
 Hotkey=E
+Buttonpos=2,0
 
 [egol]
-Hoktey=None,None
+Hoktey=None,None,None
 
 [ehip]
 Hotkey=Q
+Buttonpos=0,0
 
 [ehpr]
 Hotkey=R
+Buttonpos=0,3
 
 [Ekee]
 Hotkey=W
+Buttonpos=1,0
 
 [Emoo]
 Hotkey=E
+Buttonpos=2,0
 
 [emow]
 Hotkey=A
+Buttonpos=0,1
 
 [emtg]
 Hotkey=E
+Buttonpos=2,0
 
 [engr]
 Hotkey=S
+Buttonpos=1,1
 MerchantAvailable=1
 
 [envl]
 Hotkey=E
+Buttonpos=2,0
 
 [esaz]
 Hotkey=E
+Buttonpos=2,0
 
 [esen]
 Hotkey=W
+Buttonpos=1,0
 
 [espv]
 Hotkey= 
@@ -1254,9 +1537,11 @@ Hotkey=Y
 
 [etol]
 Hotkey=Q
+Buttonpos=0,0
 
 [etrp]
 Hotkey=R
+Buttonpos=3,0
 OffensiveStructure=1
 
 [evtl]
@@ -1265,25 +1550,31 @@ MerchantAvailable=1
 
 [Ewar]
 Hotkey=R
+Buttonpos=3,0
 
 [ewsp]
 Attackless=1
 Hotkey=Q
+Buttonpos=0,0
 
 [fgbd]
 Hotkey=E
+Buttonpos=2,0
 MerchantAvailable=1
 
 [fgdg]
 Hotkey=F
+Buttonpos=3,1
 MerchantAvailable=1
 
 [fgfh]
 Hotkey=C
+Buttonpos=2,2
 MerchantAvailable=1
 
 [fgrd]
 Hotkey=E
+Buttonpos=2,0
 Tip=Purchase Drake Egg
 
 [fgrg]
@@ -1296,15 +1587,19 @@ MerchantAvailable=1
 
 [fgun]
 Hotkey=F
+Buttonpos=3,1
 
 [frgd]
 Hotkey=F
+Buttonpos=3,1
 
 [frhg]
 Hotkey=F
+Buttonpos=3,1
 
 [fwss]
 Hotkey=F
+Buttonpos=3,1
 
 [gcel]
 Hotkey=G
@@ -1315,6 +1610,7 @@ Hotkey=G
 
 [gfor]
 Hotkey=F
+Buttonpos=3,1
 
 [gldo]
 Hotkey=K
@@ -1339,31 +1635,40 @@ Hotkey=U
 
 [gvsm]
 Hotkey=S
+Buttonpos=1,1
 
 [halt]
 Hotkey=S
+Buttonpos=1,1
 
 [Hamg]
 Hotkey=Q
+Buttonpos=0,0
 
 [harm]
 Hotkey=F
+Buttonpos=1,3
 
 [hars]
 Hotkey=D
+Buttonpos=1,2
 
 [hatw]
 Hotkey=E
+Buttonpos=2,0
 OffensiveStructure=1
 
 [hbar]
 Hotkey=W
+Buttonpos=0,1
 
 [hbla]
 Hotkey=R
+Buttonpos=0,3
 
 [Hblm]
 Hotkey=R
+Buttonpos=0,3
 
 [hbth]
 Hotkey=B
@@ -1374,6 +1679,7 @@ Hotkey=Y
 [hctw]
 CanAttackGround=1
 Hotkey=W
+Buttonpos=1,0
 OffensiveStructure=1
 
 [hcun]
@@ -1382,50 +1688,60 @@ MerchantAvailable=1
 
 [hdhw]
 Hotkey=W
+Buttonpos=1,0
 
 [her1]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=112
 
 [her2]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=113
 
 [her3]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=114
 
 [hfoo]
 Hotkey=Q
+Buttonpos=0,0
 
 [hgra]
 Hotkey=X
+Buttonpos=1,2
 
 [hgry]
 Hotkey=Q
+Buttonpos=0,0
 
 [hgtw]
 Hotkey=Q
+Buttonpos=0,0
 OffensiveStructure=1
 
 [hgyr]
 Hotkey=Q
+Buttonpos=0,0
 
 [hhou]
 Hotkey=A
+Buttonpos=0,1
 
 [hkee]
 Hotkey=Y
 
 [hkni]
 Hotkey=E
+Buttonpos=2,0
 
 [hlst]
 Hotkey=S
+Buttonpos=1,1
 MerchantAvailable=1
 
 [hlum]
 Hotkey=E
+Buttonpos=2,0
 
 [hmil]
 Hotkey= 
@@ -1433,43 +1749,56 @@ IgnoreBuilds=1
 
 [Hmkg]
 Hotkey=W
+Buttonpos=1,0
 
 [hmpr]
 Hotkey=W
+Buttonpos=1,0
 
 [hmtm]
 CanAttackGround=1
 Hotkey=W
+Buttonpos=1,0
 
 [hmtt]
 Hotkey=E
+Buttonpos=2,0
 
 [horl]
 Hotkey=S
+Buttonpos=1,1
 
 [Hpal]
 Hotkey=E
+Buttonpos=2,0
 
 [hpea]
 Hotkey=Q
+Buttonpos=0,0
 
 [hrif]
 Hotkey=W
+Buttonpos=1,0
 
 [hrtt]
 Hotkey=E
+Buttonpos=2,0
 
 [hslv]
 Hotkey=Q
+Buttonpos=0,0
 
 [hsor]
 Hotkey=Q
+Buttonpos=0,0
 
 [hspt]
 Hotkey=E
+Buttonpos=2,0
 
 [htow]
 Hotkey=Q
+Buttonpos=0,0
 
 [hval]
 Hotkey=H
@@ -1477,40 +1806,42 @@ MerchantAvailable=1
 
 [hvlt]
 Hotkey=C
+Buttonpos=2,2
 
 [hwtw]
 Hotkey=Y
 
 [InGS]
 Hotkey=187
-ReplayCommand=1,1
+ReplayCommand=1,1,1
 
 [iotw]
 Hotkey=I
 MerchantAvailable=1
 
 [itm1]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=T
 
 [itm2]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=Z
+Buttonpos=0,2
 
 [itm3]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=G
 
 [itm4]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=H
 
 [itm5]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=B
 
 [itm6]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=N
 
 [jpnt]
@@ -1543,6 +1874,7 @@ MerchantAvailable=1
 
 [mcri]
 Hotkey=E
+Buttonpos=2,0
 
 [mdpb]
 Hotkey=P
@@ -1574,10 +1906,12 @@ Hotkey=M
 
 [mnst]
 Hotkey=S
+Buttonpos=1,1
 MerchantAvailable=1
 
 [moon]
 Hotkey=Q
+Buttonpos=0,0
 
 [MOpt]
 Hotkey=79
@@ -1588,7 +1922,7 @@ Modifier=Alt
 Hotkey=M
 
 [mpng]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=71
 Modifier=Alt
 
@@ -1598,19 +1932,19 @@ MenuCommand=1
 Modifier=Alt
 
 [mvcb]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=40
 
 [mvcf]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=38
 
 [mvcl]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=37
 
 [mvcr]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=39
 
 [nadk]
@@ -1618,24 +1952,31 @@ Hotkey=K
 
 [nadr]
 Hotkey=D
+Buttonpos=2,1
 
 [nadw]
 Hotkey=W
+Buttonpos=1,0
 
 [Nal2]
 Hotkey=X
+Buttonpos=1,2
 
 [Nal3]
 Hotkey=X
+Buttonpos=1,2
 
 [Nalc]
 Hotkey=V
+Buttonpos=3,2
 
 [Nalm]
 Hotkey=X
+Buttonpos=1,2
 
 [nass]
 Hotkey=W
+Buttonpos=1,0
 
 [nba2]
 Hotkey= 
@@ -1651,33 +1992,42 @@ Hotkey=
 
 [nbdr]
 Hotkey=W
+Buttonpos=1,0
 
 [nbdw]
 Hotkey=E
+Buttonpos=2,0
 
 [nbot]
 Hotkey=Q
+Buttonpos=0,0
 
 [Nbrn]
 Hotkey=S
+Buttonpos=1,1
 
 [Nbst]
 Hotkey=X
+Buttonpos=1,2
 
 [nbwm]
 Hotkey=D
+Buttonpos=2,1
 
 [nbzd]
 Hotkey=D
+Buttonpos=2,1
 
 [nbzk]
 Hotkey=K
 
 [nbzw]
 Hotkey=W
+Buttonpos=1,0
 
 [ncea]
 Hotkey=A
+Buttonpos=0,1
 
 [ncen]
 Hotkey=O
@@ -1702,6 +2052,7 @@ Hotkey=
 
 [ndrm]
 Hotkey=W
+Buttonpos=1,0
 
 [ndro]
 Hotkey= 
@@ -1717,9 +2068,11 @@ Hotkey=
 
 [ndtb]
 Hotkey=W
+Buttonpos=1,0
 
 [ndtp]
 Hotkey=Q
+Buttonpos=0,0
 
 [nfa1]
 Hotkey= 
@@ -1735,9 +2088,11 @@ Hotkey=
 
 [nfgb]
 Hotkey=Q,Q
+Buttonpos=0,0
 
 [Nfir]
 Hotkey=F
+Buttonpos=3,1
 
 [nfra]
 Hotkey= 
@@ -1747,12 +2102,15 @@ Hotkey=
 
 [nfsh]
 Hotkey=R
+Buttonpos=3,0
 
 [nfsp]
 Hotkey=Q
+Buttonpos=0,0
 
 [nftb]
 Hotkey=W
+Buttonpos=1,0
 
 [ngad]
 Hotkey= 
@@ -1762,27 +2120,34 @@ Hotkey=K
 
 [ngir]
 Hotkey=R
+Buttonpos=3,0
 
 [ngme]
 Hotkey= 
 
 [ngnb]
 Hotkey=Q
+Buttonpos=0,0
 
 [ngnw]
 Hotkey=W
+Buttonpos=1,0
 
 [ngrd]
 Hotkey=D
+Buttonpos=2,1
 
 [ngrk]
 Hotkey=E
+Buttonpos=2,0
 
 [ngrw]
 Hotkey=W
+Buttonpos=1,0
 
 [ngsp]
 Hotkey=W
+Buttonpos=1,0
 
 [ngst]
 Hotkey= 
@@ -1792,30 +2157,38 @@ Hotkey=
 
 [nhrw]
 Hotkey=W
+Buttonpos=1,0
 
 [nitp]
 Hotkey=Q
+Buttonpos=0,0
 
 [nits]
 Hotkey=W
+Buttonpos=1,0
 
 [nkog]
 Hotkey=E
+Buttonpos=2,0
 
 [nkol]
 Hotkey=R
+Buttonpos=3,0
 
 [nkot]
 Hotkey=Q
+Buttonpos=0,0
 
 [nmbg]
 Hotkey=Q
+Buttonpos=0,0
 
 [nmer]
 Hotkey= 
 
 [nmfs]
 Hotkey=Q
+Buttonpos=0,0
 
 [nmr0]
 Hotkey= 
@@ -1864,36 +2237,45 @@ Hotkey=
 
 [nmsn]
 Hotkey=E
+Buttonpos=2,0
 
 [nndk]
 Hotkey=K
 
 [nndr]
 Hotkey=D
+Buttonpos=2,1
 
 [Nngs]
 Hotkey=A
+Buttonpos=0,1
 
 [nnht]
 Hotkey=H
 
 [nnwa]
 Hotkey=Q
+Buttonpos=0,0
 
 [nnwr]
 Hotkey=E
+Buttonpos=2,0
 
 [nogm]
 Hotkey=R
+Buttonpos=3,0
 
 [nomg]
 Hotkey=E
+Buttonpos=2,0
 
 [nowb]
 Hotkey=W
+Buttonpos=1,0
 
 [Npbm]
 Hotkey=D
+Buttonpos=2,1
 
 [Nplh]
 Hotkey=Y
@@ -1903,6 +2285,7 @@ Hotkey=T
 
 [npn3]
 Hotkey=E
+Buttonpos=2,0
 
 [nqb2]
 Hotkey= 
@@ -1912,82 +2295,104 @@ Hotkey=H
 
 [nrdk]
 Hotkey=W
+Buttonpos=1,0
 
 [nrdr]
 Hotkey=K
 
 [Nrob]
 Hotkey=Z
+Buttonpos=0,2
 
 [nrog]
 Hotkey=Q
+Buttonpos=0,0
 
 [nrvi]
 Hotkey= 
 
 [nrvs]
 Hotkey=R,R
+Buttonpos=3,0
 
 [nrwm]
 Hotkey=D
+Buttonpos=2,1
 
 [nshp]
 Hotkey= 
 
 [nskf]
 Hotkey=Q
+Buttonpos=0,0
 
 [nsln]
 Hotkey=R
+Buttonpos=3,0
 
 [nsog]
 Hotkey=R
+Buttonpos=3,0
 
 [nsrh]
 Hotkey=W
+Buttonpos=1,0
 
 [nssp]
 Hotkey=W
+Buttonpos=1,0
 
 [nsts]
 Hotkey=E
+Buttonpos=2,0
 
 [ntav]
 Hotkey= 
 
 [Ntin]
 Hotkey=C
+Buttonpos=2,2
 
 [ntkh]
 Hotkey=Q
+Buttonpos=0,0
 
 [nubw]
 Hotkey=R
+Buttonpos=3,0
 
 [nvdw]
 Hotkey=E
+Buttonpos=2,0
 
 [nwlg]
 Hotkey=E
+Buttonpos=2,0
 
 [nzep]
 Hotkey=E
+Buttonpos=2,0
 
 [oalt]
 Hotkey=S
+Buttonpos=1,1
 
 [obar]
 Hotkey=W
+Buttonpos=1,0
 
 [obea]
 Hotkey=F
+Buttonpos=3,1
 
 [Obla]
 Hotkey=Q
+Buttonpos=0,0
 
 [ocat]
 CanAttackGround=1
 Hotkey=E
+Buttonpos=2,0
 
 [ocor]
 Hotkey=Y
@@ -1998,36 +2403,45 @@ MerchantAvailable=1
 
 [odoc]
 Hotkey=W
+Buttonpos=1,0
 
 [Ofar]
 Hotkey=W
+Buttonpos=1,0
 
 [ofir]
 Hotkey=F
+Buttonpos=3,1
 
 [ofor]
 Hotkey=E
+Buttonpos=2,0
 
 [ofr2]
 Hotkey=Y
 
 [ofro]
 Hotkey=R
+Buttonpos=3,0
 
 [ofrt]
 Hotkey=Y
 
 [ogre]
 Hotkey=Q
+Buttonpos=0,0
 
 [ogru]
 Hotkey=Q
+Buttonpos=0,0
 
 [ohun]
 Hotkey=W
+Buttonpos=1,0
 
 [okod]
 Hotkey=W
+Buttonpos=1,0
 
 [oli2]
 Hotkey=Y
@@ -2037,45 +2451,58 @@ Hotkey=L
 
 [opeo]
 Hotkey=Q
+Buttonpos=0,0
 
 [orai]
 Hotkey=Q
+Buttonpos=0,0
 
 [orbr]
 Hotkey=A
+Buttonpos=0,1
 
 [Oshd]
 Hotkey=R
+Buttonpos=3,0
 
 [oshm]
 Hotkey=Q
+Buttonpos=0,0
 
 [osld]
 Hotkey=D
+Buttonpos=2,1
 
 [oslo]
 Hotkey=S
+Buttonpos=1,1
 
 [ospm]
 Hotkey=E
+Buttonpos=2,0
 
 [ostr]
 Hotkey=Y
 
 [otau]
 Hotkey=Q
+Buttonpos=0,0
 
 [otbk]
 Hotkey=W
+Buttonpos=1,0
 
 [otbr]
 Hotkey=R
+Buttonpos=3,0
 
 [Otch]
 Hotkey=E
+Buttonpos=2,0
 
 [otrb]
 Hotkey=A
+Buttonpos=0,1
 
 [otto]
 Hotkey=Y
@@ -2085,26 +2512,32 @@ Hotkey=Y
 
 [ovln]
 Hotkey=X
+Buttonpos=1,2
 
 [owtw]
 Hotkey=R
+Buttonpos=3,0
 OffensiveStructure=1
 
 [owyv]
 Hotkey=E
+Buttonpos=2,0
 
 [pams]
 Hotkey=X
+Buttonpos=1,2
 
 [pclr]
 Hotkey=Y
 
 [pdi2]
 Hotkey=D
+Buttonpos=2,1
 MerchantAvailable=1
 
 [pdiv]
 Hotkey=D
+Buttonpos=2,1
 MerchantAvailable=1
 
 [penr]
@@ -2113,6 +2546,7 @@ MerchantAvailable=1
 
 [pghe]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [pgin]
@@ -2124,15 +2558,19 @@ MerchantAvailable=1
 
 [phea]
 Hotkey=A
+Buttonpos=0,1
 
 [pinv]
 Hotkey=S
+Buttonpos=1,1
 
 [plcl]
 Hotkey=W
+Buttonpos=1,0
 
 [pman]
 Hotkey=S
+Buttonpos=1,1
 
 [pmna]
 Hotkey=P
@@ -2140,6 +2578,7 @@ MerchantAvailable=1
 
 [pnvl]
 Hotkey=C
+Buttonpos=2,2
 
 [pnvu]
 Hotkey=I
@@ -2150,14 +2589,17 @@ Hotkey=O
 
 [pres]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [prvt]
 Hotkey=W
+Buttonpos=1,0
 MerchantAvailable=1
 
 [pspd]
 Hotkey=S
+Buttonpos=1,1
 
 [QLog]
 Hotkey=120
@@ -2169,22 +2611,27 @@ MenuCommand=1
 
 [rag1]
 Hotkey=A
+Buttonpos=0,1
 MerchantAvailable=1
 
 [ram1]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [ram2]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [ram3]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [ram4]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [rat3]
@@ -2192,14 +2639,17 @@ Hotkey=K
 
 [rat6]
 Hotkey=C
+Buttonpos=2,2
 MerchantAvailable=1
 
 [rat9]
 Hotkey=C
+Buttonpos=2,2
 MerchantAvailable=1
 
 [ratc]
 Hotkey=C
+Buttonpos=2,2
 MerchantAvailable=1
 
 [rde0]
@@ -2221,114 +2671,146 @@ MerchantAvailable=1
 
 [rdis]
 Hotkey=D
+Buttonpos=2,1
 
 [Recb]
 Hotkey=A
+Buttonpos=0,1
 
 [Redc]
 Hotkey=S,S,S
+Buttonpos=1,1
 
 [Redt]
 Hotkey=S,S,S
+Buttonpos=1,1
 
 [Reeb]
 Hotkey=S
+Buttonpos=1,1
 
 [Reec]
 Hotkey=S
+Buttonpos=1,1
 
 [Rehs]
 Hotkey=D
+Buttonpos=2,1
 
 [Reht]
 Hotkey=A
+Buttonpos=0,1
 
 [Reib]
 Hotkey=A
+Buttonpos=0,1
 
 [rej1]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [rej2]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [rej3]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [rej4]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [rej5]
 Hotkey=R
+Buttonpos=3,0
 
 [rej6]
 Hotkey=R
+Buttonpos=3,0
 
 [Rema]
 Hotkey=A,A,A
+Buttonpos=0,1
 
 [Remg]
 CanAttackGround=1
 Hotkey=X
+Buttonpos=1,2
 
 [Remk]
 Hotkey=Y
 
 [Renb]
 Hotkey=E
+Buttonpos=2,0
 
 [Repb]
 Hotkey=C
+Buttonpos=2,2
 
 [Repm]
 Hotkey=R
+Buttonpos=3,0
 
 [Rerh]
 Hotkey=S,S,S
+Buttonpos=1,1
 
 [Rers]
 Hotkey=C
+Buttonpos=2,2
 
 [Resc]
 Hotkey=S
+Buttonpos=1,1
 
 [Resi]
 Hotkey=Y
 
 [Resm]
 Hotkey=Q,Q,Q
+Buttonpos=0,0
 
 [Resw]
 Hotkey=W,W,W
+Buttonpos=1,0
 
 [Reuv]
 Hotkey=E
+Buttonpos=2,0
 
 [Rews]
 Hotkey=R
+Buttonpos=3,0
 
 [rezm]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=116
 
 [Rhac]
 Hotkey=W,W,W
+Buttonpos=1,0
 
 [Rhan]
 Hotkey=D
+Buttonpos=2,1
 
 [Rhar]
 Hotkey=A,A,A
+Buttonpos=0,1
 
 [Rhcd]
 Hotkey=S
+Buttonpos=1,1
 
 [Rhde]
 Hotkey=A
+Buttonpos=0,1
 
 [rhe1]
 Hotkey=H
@@ -2341,54 +2823,69 @@ Hotkey=H
 
 [Rhfc]
 Hotkey=A
+Buttonpos=0,1
 
 [Rhfl]
 Hotkey=X
+Buttonpos=1,2
 
 [Rhfs]
 Hotkey=S
+Buttonpos=1,1
 
 [Rhgb]
 Hotkey=Y
 
 [Rhhb]
 Hotkey=A
+Buttonpos=0,1
 
 [Rhla]
 Hotkey=S,S,S
+Buttonpos=1,1
 
 [Rhlh]
 Hotkey=Q,Q,Q
+Buttonpos=0,0
 
 [Rhme]
 Hotkey=Q,Q,Q
+Buttonpos=0,0
 
 [Rhpm]
 Hotkey=R
+Buttonpos=3,0
 
 [Rhpt]
 Hotkey=S,S,S
+Buttonpos=1,1
 
 [Rhra]
 Hotkey=W,W,W
+Buttonpos=1,0
 
 [Rhri]
 Hotkey=S
+Buttonpos=1,1
 
 [Rhrt]
 Hotkey=C
+Buttonpos=2,2
 
 [Rhsb]
 Hotkey=B
 
 [Rhse]
 Hotkey=C
+Buttonpos=2,2
 
 [Rhss]
 Hotkey=D
+Buttonpos=2,1
 
 [Rhst]
 Hotkey=A,A,A
+Buttonpos=0,1
 
 [rhth]
 Hotkey=H
@@ -2400,9 +2897,11 @@ MerchantAvailable=1
 
 [ritd]
 Hotkey=W
+Buttonpos=1,0
 
 [rlif]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [rma2]
@@ -2413,158 +2912,204 @@ Hotkey=M
 
 [rnec]
 Hotkey=Q
+Buttonpos=0,0
 
 [rnsp]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [Roar]
 Hotkey=A,A,A
+Buttonpos=0,1
 
 [Robf]
 Hotkey=D
+Buttonpos=2,1
 
 [Robk]
 Hotkey=S
+Buttonpos=1,1
 
 [Robs]
 Hotkey=A
+Buttonpos=0,1
 
 [rocl]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=45
 
 [rocr]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=46
 
 [Roen]
 Hotkey=A
+Buttonpos=0,1
 
 [Rolf]
 Hotkey=D
+Buttonpos=2,1
 
 [Rome]
 Hotkey=Q,Q,Q
+Buttonpos=0,0
 
 [Ropg]
 Hotkey=E
+Buttonpos=2,0
 
 [Ropm]
 Hotkey=R
+Buttonpos=3,0
 
 [Rora]
 Hotkey=W,W,W
+Buttonpos=1,0
 
 [Rorb]
 Hotkey=D
+Buttonpos=2,1
 
 [Rosp]
 Hotkey=E,E,E
+Buttonpos=2,0
 
 [Rost]
 Hotkey=A,A,A
+Buttonpos=0,1
 
 [Rotr]
 Hotkey=X
+Buttonpos=1,2
 
 [rots]
 Hotkey=R
+Buttonpos=3,0
 
 [Rovs]
 Hotkey=C
+Buttonpos=2,2
 
 [Rowd]
 Hotkey=S,S,S
+Buttonpos=1,1
 
 [Rows]
 Hotkey=A
+Buttonpos=0,1
 
 [Rowt]
 Hotkey=D,D,D
+Buttonpos=2,1
 
 [rreb]
 Hotkey=B
 
 [rres]
 Hotkey=R
+Buttonpos=3,0
 
 [rspd]
 Hotkey=D
+Buttonpos=2,1
 
 [rsps]
 Hotkey=S
+Buttonpos=1,1
 
 [rst1]
 Hotkey=S
+Buttonpos=1,1
 MerchantAvailable=1
 
 [Ruac]
 Hotkey=A
+Buttonpos=0,1
 
 [Ruar]
 Hotkey=A,A,A
+Buttonpos=0,1
 
 [Ruba]
 Hotkey=S,S,S
+Buttonpos=1,1
 
 [Rubu]
 Hotkey=S
+Buttonpos=1,1
 
 [Rucr]
 Hotkey=S,S,S
+Buttonpos=1,1
 
 [Ruex]
 Hotkey=A
+Buttonpos=0,1
 
 [Rufb]
 Hotkey=A
+Buttonpos=0,1
 
 [Rugf]
 Hotkey=Y
 
 [rugt]
 Hotkey=R
+Buttonpos=3,0
 
 [Rume]
 Hotkey=Q,Q,Q
+Buttonpos=0,0
 
 [rump]
 Hotkey=R
+Buttonpos=3,0
 
 [Rune]
 Hotkey=A,A,A
+Buttonpos=0,1
 
 [Rupc]
 Hotkey=S
+Buttonpos=1,1
 
 [Rupm]
 EditorSuffix= (Undead)
 Hotkey=R
+Buttonpos=3,0
 
 [Rura]
 Hotkey=W,W,W
+Buttonpos=1,0
 
 [Rusf]
 Hotkey=D
+Buttonpos=2,1
 
 [Rusl]
 Hotkey=C
+Buttonpos=2,2
 
 [Rusm]
 Hotkey=D
+Buttonpos=2,1
 
 [Rusp]
 Hotkey=D
+Buttonpos=2,1
 
 [Ruwb]
 Hotkey=X
+Buttonpos=1,2
 
 [rwat]
 Hotkey=W
+Buttonpos=1,0
 
 [Rwdm]
 Hotkey=S
+Buttonpos=1,1
 
 [rwiz]
 Hotkey=B
@@ -2572,10 +3117,11 @@ MerchantAvailable=1
 
 [sbch]
 Hotkey=C
+Buttonpos=2,2
 MerchantAvailable=1
 
 [sbgp]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=9
 
 [sbok]
@@ -2583,6 +3129,7 @@ Hotkey=B
 
 [scav]
 Hotkey=S
+Buttonpos=1,1
 MerchantAvailable=1
 
 [schl]
@@ -2593,56 +3140,69 @@ Hotkey=I
 
 [Sdro]
 Hotkey=W
+Buttonpos=1,0
 
 [sfog]
 Hotkey=C
+Buttonpos=2,2
 
 [shar]
 Hotkey=S
+Buttonpos=1,1
 MerchantAvailable=1
 
 [shas]
 Hotkey=E
+Buttonpos=2,0
 
 [shcw]
 Hotkey=S
+Buttonpos=1,1
 
 [shdt]
 Hotkey=D
+Buttonpos=2,1
 
 [shea]
 Hotkey=X
+Buttonpos=1,2
 
 [shen]
 Hotkey=E
+Buttonpos=2,0
 
 [shhn]
 Hotkey=H
 
 [shrs]
 Hotkey=S
+Buttonpos=1,1
 
 [shtm]
 Hotkey=H
 
 [shwd]
 Hotkey=S
+Buttonpos=1,1
 
 [sidw]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=192
 
 [silk]
 Hotkey=S
+Buttonpos=1,1
 
 [skul]
 Hotkey=E
+Buttonpos=2,0
 
 [Slo2]
 Hotkey=Y
 
 [Slo3]
 Hotkey=Q
+Buttonpos=0,0
 
 [sman]
 Hotkey=M
@@ -2686,16 +3246,19 @@ Hotkey=O
 [SPQM]
 Hotkey=80
 Modifier=Alt
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [spre]
 Hotkey=F
+Buttonpos=3,1
 
 [spro]
 Hotkey=A
+Buttonpos=0,1
 
 [spsh]
 Hotkey=A
+Buttonpos=0,1
 MerchantAvailable=1
 
 [srbd]
@@ -2703,59 +3266,69 @@ Hotkey=B
 
 [sreg]
 Hotkey=Q
+Buttonpos=0,0
 
 [sres]
 Hotkey=R
+Buttonpos=3,0
 MerchantAvailable=1
 
 [sror]
 Hotkey=S
+Buttonpos=1,1
 MerchantAvailable=1
 
 [srtl]
 Hotkey=S
+Buttonpos=1,1
 
 [ssan]
 Hotkey=X
+Buttonpos=1,2
 
 [Sshm]
 Hotkey=I
 
 [ssil]
 Hotkey=E
+Buttonpos=2,0
 MerchantAvailable=1
 
 [stel]
 Hotkey=F
+Buttonpos=3,1
 
 [stpg]
 Hotkey=P
 
 [stre]
 Hotkey=R
+Buttonpos=3,0
 
 [stwa]
 Hotkey=W
+Buttonpos=1,0
 
 [stwp]
 Hotkey=D
+Buttonpos=2,1
 
 [SULM]
 Hotkey=85
 Modifier=Alt
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [TAHb]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=219
 
 [TAll]
 Hotkey=65
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [TAuC]
 Hotkey=101
-ReplayCommand=1,1
+ReplayCommand=1,1,1
 
 [tbak]
 Hotkey=K
@@ -2768,12 +3341,14 @@ Hotkey=B
 
 [tcas]
 Hotkey=A
+Buttonpos=0,1
 
 [tdex]
 Hotkey=A
+Buttonpos=0,1
 
 [TEHb]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=221
 
 [tels]
@@ -2781,28 +3356,31 @@ Hotkey=T
 
 [texp]
 Hotkey=E
+Buttonpos=2,0
 
 [tfar]
 Hotkey=F
+Buttonpos=3,1
 
 [TFmv]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=70
 Modifier=Alt
 
 [TFoW]
 Hotkey=100
-ReplayCommand=1,1
+ReplayCommand=1,1,1
 
 [tgrh]
 Hotkey=X
+Buttonpos=1,2
 
 [thdm]
 Hotkey=T
 
 [THer]
 Hotkey=72
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [tint]
 Hotkey=T
@@ -2812,13 +3390,14 @@ Hotkey=P
 
 [tlum]
 Hotkey=R
+Buttonpos=3,0
 
 [TMap]
 Hotkey=77
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [TMcd]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=82
 Modifier=Alt
 
@@ -2826,7 +3405,7 @@ Modifier=Alt
 Hotkey=T
 
 [TMtr]
-GameCommand=1,1
+GameCommand=1,1,1
 Hotkey=84
 Modifier=Alt
 
@@ -2837,25 +3416,26 @@ Modifier=Ctrl
 
 [TPPl]
 Hotkey=80
-ReplayCommand=1,1
+ReplayCommand=1,1,1
 
 [TPUQ]
 Hotkey=81
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [tret]
 Hotkey=Y
 
 [TRpl]
 Hotkey=82
-ReplayCommand=1,1
+ReplayCommand=1,1,1
 
 [tsct]
 Hotkey=F
+Buttonpos=3,1
 
 [TSel]
 Hotkey=83
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [TSFX]
 Hotkey=83
@@ -2864,76 +3444,96 @@ Modifier=Ctrl
 
 [TSta]
 Hotkey=84
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [tstr]
 Hotkey=S
+Buttonpos=1,1
 
 [TToD]
 Hotkey=68
-ObserverCommand=1,1
+ObserverCommand=1,1,1
 
 [uabo]
 Hotkey=W
+Buttonpos=1,0
 
 [uaco]
 Hotkey=Q
+Buttonpos=0,0
 
 [uaod]
 Hotkey=S
+Buttonpos=1,1
 
 [uban]
 Hotkey=W
+Buttonpos=1,0
 
 [ubon]
 Hotkey=X
+Buttonpos=1,2
 
 [ubsp]
 Hotkey=R
+Buttonpos=3,0
 
 [Ucrl]
 Hotkey=R
+Buttonpos=3,0
 
 [ucry]
 Hotkey=W
+Buttonpos=1,0
 
 [ucs2]
 Hotkey= 
 
 [Udea]
 Hotkey=Q
+Buttonpos=0,0
 
 [Udre]
 Hotkey=W
+Buttonpos=1,0
 
 [ufro]
 Hotkey=Q
+Buttonpos=0,0
 
 [ugar]
 CanPrioritizeAir=1
 Hotkey=E
+Buttonpos=2,0
 
 [ugho]
 Hotkey=Q
+Buttonpos=0,0
 
 [ugol]
 Hotkey=R
+Buttonpos=3,0
 
 [ugrm]
 Hotkey=A
+Buttonpos=0,1
 
 [ugrv]
 Hotkey=E
+Buttonpos=2,0
 
 [Ulic]
 Hotkey=E
+Buttonpos=2,0
 
 [umtw]
 CanAttackGround=1
 Hotkey=Q
+Buttonpos=0,0
 
 [unec]
 Hotkey=Q
+Buttonpos=0,0
 
 [unp1]
 Hotkey=Y
@@ -2943,24 +3543,30 @@ Hotkey=Y
 
 [unpl]
 Hotkey=Q
+Buttonpos=0,0
 
 [uobs]
 Hotkey=E
+Buttonpos=2,0
 
 [usap]
 Hotkey=Y
 
 [usep]
 Hotkey=W
+Buttonpos=1,0
 
 [uslh]
 Hotkey=F
+Buttonpos=3,1
 
 [utod]
 Hotkey=D
+Buttonpos=2,1
 
 [utom]
 Hotkey=C
+Buttonpos=2,2
 
 [uzg1]
 Hotkey=Y
@@ -2968,31 +3574,39 @@ OffensiveStructure=1
 
 [uzg2]
 Hotkey=X
+Buttonpos=1,2
 OffensiveStructure=1
 
 [uzig]
 Hotkey=A
+Buttonpos=0,1
 
 [vamp]
 Hotkey=V
+Buttonpos=3,2
 
 [war2]
 Hotkey=W
+Buttonpos=1,0
 
 [ward]
 Hotkey=W
+Buttonpos=1,0
 MerchantAvailable=1
 
 [wcyc]
 Hotkey=W
+Buttonpos=1,0
 MerchantAvailable=1
 
 [whwd]
 Hotkey=W
+Buttonpos=1,0
 MerchantAvailable=1
 
 [wild]
 Hotkey=A
+Buttonpos=0,1
 MerchantAvailable=1
 
 [will]
@@ -3001,6 +3615,7 @@ MerchantAvailable=1
 
 [wneg]
 Hotkey=F
+Buttonpos=3,1
 
 [wneu]
 Hotkey=N
@@ -3010,23 +3625,26 @@ Hotkey=O
 
 [woms]
 Hotkey=W
+Buttonpos=1,0
 MerchantAvailable=1
 
 [wshs]
 Hotkey=W
+Buttonpos=1,0
 
 [wswd]
 Hotkey=W
+Buttonpos=1,0
 MerchantAvailable=1
 
 [wtlg]
 Hotkey=L
 
 [zmin]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=33
 
 [zmou]
-CameraCommand=1,1
+CameraCommand=1,1,1
 Hotkey=34
 
